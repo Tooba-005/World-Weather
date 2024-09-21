@@ -27,5 +27,5 @@ The app is developed using React.js and material-UI.
 Check `packages.json` for details
 
 <br/>
-
+Deployment: https://world-weather-psi.vercel.app/
 Thank You ☺
